@@ -4,7 +4,7 @@ setup(
     name='PyWeatherKit',
     version='0.0.3',
     packages=['weatherkit'],
-    url='https://github.com/davecom/PyWeatherKit',
+    url='https://github.com/joaoTrevizoli/PyWeatherKit',
     license='Apache 2',
     author='David Kopec',
     author_email='david@oaksnow.com',
